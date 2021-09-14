@@ -1,0 +1,2 @@
+This is the file which is in the second branch and this will not appear in the master branch we have to merge this branch
+to make it appear in master branch, and then delete this branch from server and from git as well.
